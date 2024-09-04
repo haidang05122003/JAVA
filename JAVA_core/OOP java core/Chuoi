@@ -1,0 +1,3 @@
+String bat bien
+StringBuffer: kha bien, muliti-thread
+StringBuilder: kha bien, single-thread

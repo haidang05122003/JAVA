@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_core/BaiTapJavaOOP/BaiTapJavaBase/BaiTapJavaBase.iml" filepath="$PROJECT_DIR$/JAVA_core/BaiTapJavaOOP/BaiTapJavaBase/BaiTapJavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_core/BaiTapJavaOOP/BaiTapJavaOOP.iml" filepath="$PROJECT_DIR$/JAVA_core/BaiTapJavaOOP/BaiTapJavaOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_CORE.iml" filepath="$PROJECT_DIR$/JAVA_CORE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_core/JAVA_core.iml" filepath="$PROJECT_DIR$/JAVA_core/JAVA_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_with_database/Java_with_database.iml" filepath="$PROJECT_DIR$/Java_with_database/Java_with_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_with_database_01/Java_with_database_01.iml" filepath="$PROJECT_DIR$/Java_with_database_01/Java_with_database_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LTDHT_JAVA/LTDHT_JAVA.iml" filepath="$PROJECT_DIR$/LTDHT_JAVA/LTDHT_JAVA.iml" />
+    </modules>
+  </component>
+</project>

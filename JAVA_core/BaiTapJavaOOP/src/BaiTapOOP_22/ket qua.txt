@@ -1,0 +1,28 @@
+Cạnh a: 3.00, b: 5.00, c: 6.00
+Chu vi: 14.00
+Diện tích: 7.48
+
+
+Cạnh a: 3.00, b: 5.00, c: 6.00
+Chu vi: 14.00
+Diện tích: 7.48
+
+
+Cạnh a: 3.00, b: 5.00, c: 6.00
+Chu vi: 14.00
+Diện tích: 7.48
+
+
+Cạnh a: 3.00, b: 5.00, c: 6.00
+Chu vi: 14.00
+Diện tích: 7.48
+
+
+Cạnh a: 3.00, b: 5.00, c: 6.00
+Chu vi: 14.00
+Diện tích: 7.48
+
+
+Cạnh a: 3.00, b: 4.00, c: 7.00 không tạo thành một tam giác.
+
+

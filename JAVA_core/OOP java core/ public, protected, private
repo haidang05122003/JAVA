@@ -1,0 +1,5 @@
+private  chi su dung dc bien trong class (cac phan package, subclass, world deu khong the truy cap duoc)
+protected su dung dc bien trong class, subclass, trong cung 1 package khac lop subclass (world ko the truy cap)
+public co the su dung o ca class, subclass, package, world
+" " co the goi ra su dung trong cung 1 class va package (world vs subclass ko the truy cap)
+

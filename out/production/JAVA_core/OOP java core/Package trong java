@@ -1,0 +1,10 @@
+chia cac goi package
+vi du:  package cua dev (code) rieng
+        package cua tester (test) rieng
+        package cua csdl (database) rieng
+        package cua UX/UI (giao dien) rieng
+        package cua model (cau hinh) rieng
+
+- package dung de chi cac code class de de dang quan ly code
+- cac package co the co class giong ten nhau (package A co the giong B (class o package A co the khac class o package B mac du giong nhau)
+- muon su dung du lieu cua 1 package thi phai Import
